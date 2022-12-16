@@ -1,0 +1,4 @@
+megsindelar@meg:~/ME_449/Sindelar_Megan_capstone/code/best$ python3 newTask_limits.py 
+Generating animation csv file
+Writing error plot data
+Done.
